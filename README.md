@@ -2,7 +2,7 @@
 
 Data Science & AI student | Python • SQL • Data Engineering enthusiast
 📍 London, United Kingdom
-🔗 [LinkedIn] (https://www.linkedin.com/in/arman-asi-bor-30788b2b5)
+🔗 [LinkedIn](https://www.linkedin.com/in/arman-asi-bor-30788b2b5)
 
 🧠 What drives me
 
