@@ -6,7 +6,8 @@ Data Science & AI student | Python • SQL • Data Engineering enthusiast
 
 🧠 What drives me
 
-I’m currently pursuing a BSc in Data Science & Artificial Intelligence and actively looking for a year-long industrial placement or internship to apply and deepen my data engineering skills. My focus: turning data into actionable insights, building robust data pipelines, and mastering the tools that power modern analytics.
+I’m currently pursuing a BSc in Data Science & Artificial Intelligence 
+My focus: turning data into actionable insights, building robust data pipelines, and mastering the tools that power modern analytics.
 
 🔧 What I bring to the table
 
